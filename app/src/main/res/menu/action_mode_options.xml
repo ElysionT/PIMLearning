@@ -1,0 +1,8 @@
+<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:learn="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_option_done"
+        android:title="Done"
+        learn:showAsAction="always" />
+</menu>
